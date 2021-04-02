@@ -3,6 +3,7 @@
     "name": "TestFE",
     "slug": "TestFE",
     "version": "1.0.0",
+    "homepage": "http://SAKALAZA.github.io/testFrontEndSimpleApp/",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
